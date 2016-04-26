@@ -1,5 +1,6 @@
 #fade{
-	// !important is necessary otherwise the css will be loaded but wont be rendered.	
+	/*!important is necessary otherwise the css will be loaded but wont be rendered.*/
+	
     opacity:0.2 !important;
     background-color:#73C6B6!important; 
     width:100%!important; 
